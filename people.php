@@ -1,44 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Assignment 5 - Maui</title>
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-  </head>
-</head>
-<body>
-
-	<nav class="navbar navbar-default">
-		<div class="container-fluid">
-
-	    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-	      <ul class="nav navbar-nav">
-	      	<li><a href="index.php"><strong>NY City</strong></a>
-	        <li class="active"><a href="people.php">People</a></li>
-	        <li><a href="food.php">Food</a></li>
-	        <li><a href="sights.php">Sights</a></li>
-	        <li><a href="signup.php">Signup</a></li>
-	      </ul>
-	      <ul class="nav navbar-nav navbar-right">
-	        <li class="dropdown">
-	          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Admin <span class="caret"></span></a>
-	          <ul class="dropdown-menu">
-	            <li><a href="#">Login</a></li>
-	            <!--
-	            <li><a href="#">Another action</a></li>
-	            <li><a href="#">Something else here</a></li>
-	            <li role="separator" class="divider"></li>
-	            <li><a href="#">Separated link</a></li>
-	        	-->
-	          </ul>
-	        </li>
-	      </ul>
-	    </div><!-- /.navbar-collapse -->
-	  </div><!-- /.container-fluid -->
-	</nav>
+<?php include 'inc/html-top.inc';?>
 
 	<div class="container">
 
@@ -62,7 +22,7 @@
 		<p>Little known to most tourists are the large Dominican neighborhoods of Hamilton Heights and Washington Heights in upper Manhattan. Brooklyn's Greenpoint is famous for its formerly large and vibrant Polish community, of which only a bit remains, and the Flatbush section - once home to the Brooklyn Dodgers - is today a huge and thriving Caribbean and West Indian section. Queens and Brooklyn are known for being home to many of New York's immigrant groups.</p>
 
 		<h3>Income Statistics</h3>
-		<p>New York City has a high degree of income disparity as indicated by its Gini Coefficient of 0.5 for the city overall and 0.6 for Manhattan. In the first quarter of 2014, the average weekly wage in New York County (Manhattan) was $2,749, representing the highest total among large counties in the United States.</p> 
+		<p>New York City has a high degree of income disparity as indicated by its Gini Coefficient of 0.5 for the city overall and 0.6 for Manhattan. In the first quarter of 2014, the average weekly wage in New York County (Manhattan) was $2,749, representing the highest total among large counties in the United States.</p>
 
 		<p>As of 2017, New York City had the highest number of billionaires of any city in the world at 82, with a combined net worth of US$398 billion, including former Mayor Michael Bloomberg. New York also had the highest density of millionaires per capita among major U.S. cities in 2014, at 4.6% of residents. New York City is one of the relatively few American cities levying an income tax (currently about 3%) on its residents.</p>
 
