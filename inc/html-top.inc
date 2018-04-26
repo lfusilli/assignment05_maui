@@ -14,7 +14,7 @@
 
 	    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 	      <ul class="nav navbar-nav">
-	      	<li class="active"><a href="index.php"><strong>NY City</strong></a>
+	      	<li><a href="index.php"><strong>NY City</strong></a></li>
 	        <li><a href="people.php">People</a></li>
 	        <li><a href="food.php">Food</a></li>
 	        <li><a href="sights.php">Sights</a></li>

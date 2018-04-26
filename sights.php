@@ -68,6 +68,11 @@
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
-
+	<script>
+	var url = window.location;
+	$('ul.nav a').filter(function() {
+	    return this.href == url;
+	}).parent().addClass('active');
+	</script>
 </body>
 </html>
