@@ -26,7 +26,7 @@
 
 		<p>As of 2017, New York City had the highest number of billionaires of any city in the world at 82, with a combined net worth of US$398 billion, including former Mayor Michael Bloomberg. New York also had the highest density of millionaires per capita among major U.S. cities in 2014, at 4.6% of residents. New York City is one of the relatively few American cities levying an income tax (currently about 3%) on its residents.</p>
 
-		<h2>The Accent</h2>
+		<h3>The Accent</h3>
 		<p>The New York area has historically been home to a distinctive regional speech pattern called the New York dialect, alternatively known as Brooklynese or New Yorkese. It has generally been considered one of the most recognizable accents within American English.</p>
 
 
