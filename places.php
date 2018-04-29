@@ -10,7 +10,7 @@
 <div class="row">
           <div class="col-md-4">
             <h2>Who to See</h2>
-            <p>The people of NYC are unique to the world because they represent the entire world. Find out what makes up one of the most intricate and diverse populations in the world. Meet the people of New Yorl.</p>
+            <p>The people of NYC are unique to the world because they represent the entire world. Find out what makes up one of the most intricate and diverse populations in the world. Meet the people of New York.</p>
             <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
           </div>
           <div class="col-md-4">

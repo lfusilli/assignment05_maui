@@ -9,22 +9,27 @@
 		<div class="container-fluid">
 
 		<form action="survey.php" method="post">
-		<fieldset>
+		<fieldset class="info">
 
-			Name:
+			<label for="name">Name:</label>
+			
     		<input type="text" name="name">
     		<br><br>
-    		Email:
+
+    		<label for="email">Email:</label>
+    		
     		<input type="email" name="email">
     		<br><br>
 
-    		How would you describe your relationship to New York City?<br>
+    		<label for="relationship">How would you describe your relationship to New York City?</label>
+    		<br>
 			<input type="radio" name="relationship" value="native" checked> I'm from there.<br>
   			<input type="radio" name="relationship" value="close"> I'm not from the city but feel like I am.<br>
   			<input type="radio" name="relationship" value="tourist"> I am strictly a tourist.
   			<br><br>
 
-  			Which of the following topics would you like to receive updates about?<br>
+  			<label for="updates">Which of the following topics would you like to receive updates about?</label>
+  			<br>
   			<input type="checkbox" name="people" value="people"> The People<br>
   			<input type="checkbox" name="food" value="food"> The Food<br>
   			<input type="checkbox" name="sights" value="sights"> The Sights<br><br>
