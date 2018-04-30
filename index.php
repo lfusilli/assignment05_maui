@@ -4,7 +4,7 @@
 
 	<div class="jumbotron">
 	  <h1>Hello, New York!</h1>
-	  <h3>A showcase of America's biggest and most vibrant city.</h3>
+	  <h2 class="title">A showcase of America's biggest and most vibrant city.</h2>
 	</div>
 
 <div class="row">
