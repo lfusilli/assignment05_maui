@@ -225,3 +225,7 @@ footer{
     margin: 10px;
     padding: 10px; 
 }
+
+form input {
+    color: black;
+}
