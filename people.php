@@ -39,6 +39,8 @@
 		<p>The New York area has historically been home to a distinctive regional speech pattern called the New York dialect, alternatively known as Brooklynese or New Yorkese. It has generally been considered one of the most recognizable accents within American English.</p>
 		</div>
 
+	<?php include 'inc/footer.inc';?>
+
 	</div><!--container-->
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>

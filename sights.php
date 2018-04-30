@@ -39,6 +39,9 @@
 	<p>The Statue of Liberty,is a monument symbolising the United States. It was given to the United States by the people of France in 1886, to represent the friendship between the two countries established during the American Revolution. The statue is on Liberty Island in New York Harbor, and it welcomes visitors, immigrants, and returning Americans travelling by ship. The Statue of Liberty is one of the most recognizable symbols in the world.</p>
 	<p>The Statue of Liberty is a figure of a robed woman representing Libertas, a Roman liberty goddess. She holds a torch above her head with her right hand, and in her left hand carries a tabula ansata inscribed in Roman numerals with "JULY IV MDCCLXXVI" (July 4, 1776), the date of the U.S. Declaration of Independence. A broken chain lies at her feet. The statue became an icon of freedom and of the United States, and was a welcoming sight to immigrants arriving from abroad.</p>
 	</div>
+
+	<?php include 'inc/footer.inc';?>
+
 	</div><!--container-->
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>

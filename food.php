@@ -39,6 +39,9 @@
 			<p>Hot dogs are as ubiquitous to New York as yellow taxis. Traditionally made of ground pork, beef or both, these frankfurter-style sausages are flavoured with garlic, mustard and nutmeg before being encased, cured, smoked and cooked. Trek to Brooklyn to visit Original Nathan’s Famous Frankfurters, opened in 1915 by German-born Charles Feltman who conceived of the hot dog while pushing a pie cart along Coney Island’s boardwalk. Or, stop by the street carts on city corners for garlicky hot dogs with grainy mustard and tangy sauerkraut.</p>
 			<p>The white hot or "porker" is a variation on the hot dog found in the upstate area. It is composed of some combination of uncured and unsmoked pork, beef, and veal; it is believed that the lack of smoking or curing allows the meat to retain a naturally white color. White hots are almost exclusively eaten with mustard, specifically spicy brown, and other spices, and often include a dairy component such as nonfat dry milk.</p>
 </div>
+
+<?php include 'inc/footer.inc';?>
+
 	</div><!--container-->
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
