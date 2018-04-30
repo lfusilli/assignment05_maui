@@ -218,12 +218,10 @@ nav{
 }
 
 footer{
-    color: white;
-    background-color: black;
-    opacity: 0.3;
-    height: 20px;
-    margin: 10px;
-    padding: 10px; 
+    background-color: #ECECEC;
+    opacity: 0.5;
+    margin: 20px;
+    padding: 20px; 
 }
 
 form input {
